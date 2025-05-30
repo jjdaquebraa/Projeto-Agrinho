@@ -1,1 +1,2 @@
 # Projeto-Agrinho
+O "Festejando a Conexão Campo-Cidade" é uma plataforma online que visa aproximar o campo e a cidade, celebrando suas culturas, saberes e trocas. O projeto oferece uma série de iniciativas, como eventos culturais, histórias compartilhadas, um marketplace de produtos locais e até uma seção interativa onde os moradores do campo e da cidade podem se conectar e aprender uns com os outros.
